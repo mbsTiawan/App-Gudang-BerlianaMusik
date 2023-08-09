@@ -1,8 +1,0 @@
-Error pada program bm-inventaris
-
-- apabila edit status_barang pada bagian master barang akan error
-- apabila edit kategori pada bagian master barang, stok reset jadi 0 
-- load css lama
-- database masih belum fix
-- melakukan hapus pada master kategori tidak bisa dilakukan jika ada record barang yang sedang menggunakan kategori tsb
-- data yang tersimpan pada table dimana record diambil dari table lain ditampilkan dalam bentuk id
